@@ -31,6 +31,9 @@ Instala las dependencias necesarias
 Abre el notebook con Jupyter Notebook o JupyterLab.
 Ejecuta las celdas de forma secuencial
 
+# conclusión 
+Este proyecto permitió transformar datos con problemas de calidad en información útil para el negocio. Se identificaron patrones de comportamiento, se segmentaron clientes y se generaron recomendaciones estratégicas para mejorar la oferta de servicios de ConectaTel.
+
 # guia breve de reproducción
 1. Descarga el notebook y los datasets.
 2. Verifica que los archivos estén en la ruta correcta.
